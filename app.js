@@ -3,5 +3,5 @@ function scrollWin() {
         top: 600, 
         left: 0, 
         behavior: 'smooth'
-      });
+    });
 }
